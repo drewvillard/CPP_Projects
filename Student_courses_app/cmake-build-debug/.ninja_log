@@ -1,0 +1,5 @@
+# ninja log v5
+1007	1464	7000861418287773	Assignment2.exe	83090936df26929d
+15	728	7235114190300425	build.ninja	89e176955593cb0c
+8	962	7000861413322330	CMakeFiles/Assignment2.dir/src/Student.cpp.obj	e676d896cf3083c1
+0	1007	7000861413761396	CMakeFiles/Assignment2.dir/src/main.cpp.obj	8a67241c14739434

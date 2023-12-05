@@ -1,3 +1,0 @@
-C:/Users/heral/School/CPP/Assignments/assignment-2-w0468787/cmake-build-debug/CMakeFiles/solve_maze.dir
-C:/Users/heral/School/CPP/Assignments/assignment-2-w0468787/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/heral/School/CPP/Assignments/assignment-2-w0468787/cmake-build-debug/CMakeFiles/rebuild_cache.dir

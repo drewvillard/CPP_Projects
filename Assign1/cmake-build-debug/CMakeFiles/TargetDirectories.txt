@@ -1,3 +1,0 @@
-C:/Users/heral/School/Prog C++/Assignments/Assign1/cmake-build-debug/CMakeFiles/Assign1.dir
-C:/Users/heral/School/Prog C++/Assignments/Assign1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/heral/School/Prog C++/Assignments/Assign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Portfolio/C_plusplus_projects/CPP_to_HTML/cmake-build-debug/CMakeFiles/Assign1.dir
+D:/Portfolio/C_plusplus_projects/CPP_to_HTML/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Portfolio/C_plusplus_projects/CPP_to_HTML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
