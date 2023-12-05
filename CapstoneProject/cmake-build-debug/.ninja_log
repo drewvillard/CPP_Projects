@@ -1,0 +1,8 @@
+# ninja log v5
+8	4069	7225374838768043	CMakeFiles/CapstoneProject.dir/main.cpp.obj	47cd32ce1830d103
+3	588	7235055481877662	build.ninja	30ae9e8e31211916
+12	3666	7222991920076387	CMakeFiles/CapstoneProject.dir/src/server.cpp.obj	6d5a809324d4265c
+25	3489	7222991918289212	CMakeFiles/CapstoneProject.dir/src/client.cpp.obj	5cb58ce53ace48a9
+11	720	7222989320709913	CMakeFiles/CapstoneProject.dir/src/encrypt.cpp.obj	2791217818aa260f
+4212	5009	7225374848149334	CapstoneProject.exe	c2c43b1a2b476abf
+20	4211	7225374840233138	CMakeFiles/CapstoneProject.dir/src/setup_chat.cpp.obj	4fabf5adfb790871

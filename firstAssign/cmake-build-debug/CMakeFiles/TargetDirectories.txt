@@ -1,0 +1,3 @@
+C:/Users/heral/School/CPP/Assignments/firstAssign/cmake-build-debug/CMakeFiles/edit.dir
+C:/Users/heral/School/CPP/Assignments/firstAssign/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/heral/School/CPP/Assignments/firstAssign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
