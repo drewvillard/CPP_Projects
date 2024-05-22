@@ -19,6 +19,7 @@ Once launched, you can manipulate the cursor and file contents using the followi
 - **L**: Lists the contents of the file.
 
 - **L #**: Moves the cursor to the specified line number.
+- **D #**: Deletes line of specified number.
 
 #### Purpose:
 
